@@ -1,2 +1,18 @@
-const products=[
-["Jalur Evakuasi Kanan","Jalur Evakuasi","JALUR EVAKUASI →","green"],["Jalur Evakuasi Kiri","Jalur Evakuasi","← JALUR EVAKUASI","green"],["Jalur Evakuasi Atas","Jalur Evakuasi","JALUR EVAKUASI ↑","green"],["Jalur Evakuasi Bawah","Jalur Evakuasi","JALUR EVAKUASI ↓","green"],["EXIT","EXIT","EXIT","green"],["FIRE EXIT","EXIT","FIRE EXIT","green"],["EXIT Kanan","EXIT","EXIT →","green"],["EXIT Kiri","EXIT","← EXIT","green"],["EXIT Atas","EXIT","EXIT ↑","green"],["EXIT Bawah","EXIT","EXIT ↓","green"],["Titik Kumpul","Titik Kumpul","TITIK KUMPUL","green"],["Bahaya Arus Listrik","Peringatan","⚡","yellow"],["Dilarang Merokok","Larangan","🚭 DILARANG MEROKOK","red"]];
+const products = [
+  ["Jalur Evakuasi Kanan","Jalur Evakuasi","JALUR EVAKUASI →","green","images/exit kanan.jpg"],
+  ["Jalur Evakuasi Kiri","Jalur Evakuasi","← JALUR EVAKUASI","green","images/jalurevakuasikiri.jpg"],
+  ["Jalur Evakuasi Atas","Jalur Evakuasi","JALUR EVAKUASI ↑","green","images/exit atas atas kanan.jpg"],
+  ["Jalur Evakuasi Bawah","Jalur Evakuasi","JALUR EVAKUASI ↓","green","images/jalurevakuasibawah.jpg"],
+
+  ["EXIT","EXIT","EXIT","green","images/exit.jpg"],
+  ["FIRE EXIT","EXIT","FIRE EXIT","green","images/fire exit.jpg"],
+  ["EXIT Kanan","EXIT","EXIT →","green","images/exit kanan.jpg"],
+  ["EXIT Kiri","EXIT","← EXIT","green","images/exit kiri.jpg"],
+  ["EXIT Atas","EXIT","EXIT ↑","green","images/exit atas atas kanan.jpg"],
+  ["EXIT Bawah","EXIT","EXIT ↓","green","images/exit bawah kanan.jpg"],
+
+  ["Titik Kumpul","Titik Kumpul","TITIK KUMPUL","green","images/titikkumpul.jpg"],
+
+  ["Bahaya Arus Listrik","Peringatan","⚡","yellow",""],
+  ["Dilarang Merokok","Larangan","🚭 DILARANG MEROKOK","red",""]
+];
